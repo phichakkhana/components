@@ -14,7 +14,8 @@ body .container{
 
 .list-group-item{
     size: auto;
-    font-size:30px
+    font-size:20px
+    
 }
 
 .card-img-top{
@@ -30,7 +31,8 @@ body .container{
 
 footer{
     margin-top:25px;
-    font-size:12px;
+    font-size:16px;
+    
 }
 
 .col-auto{
@@ -46,9 +48,11 @@ input{
     padding: 60px 80px;
 }
 h5{
-    color: black;
+    color: rgb(216, 92, 35);
 }
 p{
     color: chocolate;
 }
+
+
 
